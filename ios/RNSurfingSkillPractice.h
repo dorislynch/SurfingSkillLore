@@ -2,7 +2,7 @@
 //  RNSurfingSkillPractice.h
 //  RNSurfingSkillLore
 //
-//  Created by Tsing on 10/18/23.
+//  Created by Clieny on 10/18/23.
 //  Copyright © 2023 Facebook. All rights reserved.
 //
 
